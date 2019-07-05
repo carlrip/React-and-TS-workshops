@@ -30,7 +30,7 @@
 
 ❔ Why do you think CSS classes are added to elements using `className` rather than `class` in JSX?
 
-👉 Understand what `<div><a href="your.email@somewhere.com">your.email@somewhere.com</a><div>` transpiles down to
+👉 Understand what `<div><a href="your.email@somewhere.com">your.email@somewhere.com</a></div>` transpiles down to
 
 🏃 Put `your.email@somewhere.com` into a variable and use this variable in the JSX
 
