@@ -119,7 +119,8 @@ const bob:Person = {
 
 📄 Function parameters and interface parameters can be declared as optional by using a `?` before the type annotation.
 
-🏃 Adjust the `getHighestScore` function so that the score is optional and defaults to `0`.
+🏃 Create an interface for a score containing a name and an optional score. Create a function that will take in the score object and return it incremented. `0` should be used as the default score if the score is missing.  
+
 
 ## Type aliases
 
