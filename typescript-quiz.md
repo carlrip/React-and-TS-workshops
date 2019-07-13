@@ -46,7 +46,7 @@ interface Character2 {
 }
 ```
 
-8. In the following `reducer` function what type will the `action` argument be narrowed to in the `"Loaded"` switch branch?
+8. In the following `reducer` function, what type will the `action` argument be narrowed to in the `"Loaded"` switch branch?
 ```
 interface State {
     data: string[];
