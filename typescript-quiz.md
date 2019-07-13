@@ -33,7 +33,7 @@ interface Dog {
 How can we change the interface to make the `age` property optional?
 
 
-7. What is the difference between the height properties in the following types?
+7. What is the difference between the `height` properties in the following types?
 ```
 interface Character1 {
     ...
