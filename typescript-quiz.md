@@ -21,7 +21,7 @@ function multiplyBy2(numbers) {
 
 4. What is the code for a type that represents a person containing properties for their firstname, surname and date of birth?
 
-5. What is the code for a type that can be used for the day name of the week? i.e. the type should be able to hold "Monday" or "Tuesday" or ...
+5. What is the code for a type that can be used for the day name of the week? i.e. the type should be able to hold `"Monday"` or `"Tuesday"` or ...
 
 6. We have the following interface:
 ```
