@@ -7,7 +7,7 @@
 🏃 Exercise  
 🏆 Tough challenge  
 📄 Information  
-💬 Tip  
+💡 Tip  
 🔗 Link to useful information
 
 ## Recap
@@ -47,7 +47,7 @@ class MyComponent extends React.Component<Props> {
 
 🏆 Create a new function component called `ShoppingList` that renders an unordered list from an `items` prop which is an array of shopping items. Each shopping item is a string.
 
-💬 It is best practice in React to give each list item a `key` property that has a unique value. This is to allow React to manage updates to the list efficiently.
+💡 It is best practice in React to give each list item a `key` property that has a unique value. This is to allow React to manage updates to the list efficiently.
 
 🔗 Rendering lists and keys in React docs: https://reactjs.org/docs/lists-and-keys.html
 

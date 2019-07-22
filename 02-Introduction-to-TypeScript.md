@@ -7,7 +7,7 @@
 🏃 Exercise  
 🏆 Tough challenge  
 📄 Information  
-💬 Tip  
+💡 Tip  
 🔗 Link to useful information
 
 ## Introduction
@@ -46,7 +46,7 @@ const today = new Date();
 
 📄 TypeScript's type inference system means we don't always have to enter a type annotation for the TypeScript compiler to know a variables type.
 
-💬 Let TypeScript infer types where it can to avoid bloating code with unnecessary type information.
+💡 Let TypeScript infer types where it can to avoid bloating code with unnecessary type information.
 
 🏃 Create a numeric variable called `score` and set this to `9` without using a type annotation. Hover over the variable to confirm that it is of type `number`.
 
@@ -70,7 +70,7 @@ function add10(value) {
 
 ❔ What situations is `any` useful?
 
-💬 There is a TypeScript type called `unknown` that can be used to strongly-type variables that have unknown types at runtime.  
+💡 There is a TypeScript type called `unknown` that can be used to strongly-type variables that have unknown types at runtime.  
 🔗 Information on the `unknown` type. https://mariusschulz.com/blog/typescript-3-0-the-unknown-type
 
 
