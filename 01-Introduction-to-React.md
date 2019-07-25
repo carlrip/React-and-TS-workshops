@@ -7,7 +7,7 @@
 🏃 Exercise  
 🏆 Tough challenge  
 📄 Information  
-💬 Tip  
+💡 Tip  
 🔗 Link to useful information
 
 ## Understanding how React is injected into a HTML page
