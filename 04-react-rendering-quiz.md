@@ -22,8 +22,8 @@ export default function App() {
 }
 ```
 
-- How many times will the component below rerender when the button is clicked?
-- What elements of the browsers DOM will be updated when the button is clicked? The whole page? Just the `div` in the component and its children? Just the `button`? or just the button content?
+- How many times will the component rerender when the button is clicked?
+- What elements of the browsers DOM will be updated when the button is clicked? The whole page? Just the div in the component and its children? Just the button? or just the button content?
 
 
 2. Consider the `App` component and its child component, `Counter`, below. 
